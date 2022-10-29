@@ -680,6 +680,7 @@ Enrique Javier
 - [Jakob Nietzsche] (https://github.com/jakobnietzsche)
 - [Christine Amuzie](https://github.com/broaderimpact)
 - [Jitesh Kumar](https://github.com/jiteshkumardj)
+- Prathna Jain
 - [Ronaldo Kereh](https://github.com/kereh)
 - [Saurabh Singh](https://github.com/saurabhsingh720)
 - [CLF](https://github.com/lchenc3)
